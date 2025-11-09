@@ -3,7 +3,7 @@
 # 🤖 Machine Learning Domain
 ### Developer Student Clubs - Andhra University College of Engineering
 
-![ML Domain Banner](https://github.com/dsc-auce-ml/.github/blob/main/profile/banner.png)
+![ML Domain Banner](https://github.com/Machine-Learning-Domain-GDGoC-AUCE/.github/blob/main/banner.png)
 
 [![GitHub Organization](https://img.shields.io/badge/Organization-DSC_AUCE-blue?style=flat-square&logo=github)](https://github.com/dsc-auce-ml)
 [![Discord](https://img.shields.io/badge/Discord-Join_Us-7289DA?style=flat-square&logo=discord&logoColor=white)](your-discord-link)
