@@ -65,7 +65,7 @@ Whether you're taking your first steps in Python or building neural networks, th
 ## 🎉 Events & Activities
 
 ### Regular Sessions
-- 📅 **Weekly ML Workshops** - Every Friday, 6:00 PM
+- 📅 **Monthly ML Workshops** 
 - 💻 **Coding Bootcamps** - Weekend intensive sessions
 - 🎯 **Project Showcases** - Monthly demo days
 - 🗣️ **Guest Lectures** - Industry experts share insights
